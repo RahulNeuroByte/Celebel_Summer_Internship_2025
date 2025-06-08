@@ -1,7 +1,7 @@
 # Celebel_Summer_Internship_2025
 
 **Company**: Celebel Technology Pvt. Ltd.
-**Duratiion**: 2 Months
+**Duration**: 2 Months
 **Domain**: Data Science
 
 # Repository Overview
