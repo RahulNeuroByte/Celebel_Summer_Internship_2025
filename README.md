@@ -14,3 +14,5 @@ Basic Python, Syntax, Data types, Conditional Statements, Error Handling, Functi
 
 # Week 2:
 OOPs concepts including Classes and Objects, Inheritance and polymorphism, Encapsulation, Special methods, Opening, reading and writing to files, Working with CSV and JSON files, Virtual environment creations, pip, pip freeze, Flask web framework, and Django web framework.
+
+# Week 3:
