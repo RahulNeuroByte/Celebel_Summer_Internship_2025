@@ -9,10 +9,11 @@ This repository contains weekly assignments and tasks completed during my 2-mont
 
 Each folder represents work done in a specific week, covering Python with oops concept, data preprocessing, EDA, machine learning and Gen AI fundamentals
 
-# Week 1:
+# Week 1: Introduction to Python
 Basic Python, Syntax, Data types, Conditional Statements, Error Handling, Functions, Importing Modules and Creating Customize Modules 
 
-# Week 2:
+# Week 2: Object Oriented Programming in Python
 OOPs concepts including Classes and Objects, Inheritance and polymorphism, Encapsulation, Special methods, Opening, reading and writing to files, Working with CSV and JSON files, Virtual environment creations, pip, pip freeze, Flask web framework, and Django web framework.
 
-# Week 3:
+# Week 3: Data Science with Python
+we focused on core data science tools using Python, including NumPy, Pandas, and Matplotlib. We explored the basics of Machine Learning, matrix operations, and essential statistical concepts like hypothesis testing, confidence intervals, and Bayesian inference. We also learned data preprocessing techniques such as cleaning, encoding, scaling, and handling missing values. These concepts were applied in a practical project, where we analyzed and visualized Netflix data to uncover trends in genres, ratings, duration, and regional content preferences.
