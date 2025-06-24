@@ -17,3 +17,5 @@ OOPs concepts including Classes and Objects, Inheritance and polymorphism, Encap
 
 # Week 3: Data Science with Python
 we focused on core data science tools using Python, including NumPy, Pandas, and Matplotlib. We explored the basics of Machine Learning, matrix operations, and essential statistical concepts like hypothesis testing, confidence intervals, and Bayesian inference. We also learned data preprocessing techniques such as cleaning, encoding, scaling, and handling missing values. These concepts were applied in a practical project, where we analyzed and visualized Netflix data to uncover trends in genres, ratings, duration, and regional content preferences.
+
+# Week 4: Feature Engineering
