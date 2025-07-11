@@ -20,3 +20,9 @@ we focused on core data science tools using Python, including NumPy, Pandas, and
 
 # Week 4: Feature Engineering
 Learned about transforming raw data into meaningful inputs for machine learning models. It covers essential techniques like feature selection, extraction, encoding, and dimensionality reduction methods such as PCA, LDA, t-SNE, and autoencoders. The week also introduces model selection strategies including train-test split, cross-validation, and hyperparameter tuning using Grid Search and Random Search. Lastly, it dives into key evaluation metrics for both classification (accuracy, precision, recall, F1-score, ROC-AUC) and regression (MSE, RMSE, R-squared) to assess model performance effectively.
+
+# Week 5 : Regression
+Learned about Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, Ridge Regression, Lasso Regression, ElasticNet Regression, Logistic Regression, Naive Bayes, k-Nearest Neighbors, Decision Trees, Random Forest, Support Vector Machines
+
+# Week 6:  Clustering
+Focusing on the key concepts of K-Means Clustering, Hierarchical Clustering, DBSCAN, Gaussian Mixture ModelsBagging, Boosting, Stacking, Random Forest, Gradient BoostingL1 Regularization, L2 Regularization, ElasticNet Regularization
