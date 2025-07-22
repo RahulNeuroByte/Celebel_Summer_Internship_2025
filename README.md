@@ -26,3 +26,9 @@ Learned about Simple Linear Regression, Multiple Linear Regression, Polynomial R
 
 # Week 6:  Clustering
 Focusing on the key concepts of K-Means Clustering, Hierarchical Clustering, DBSCAN, Gaussian Mixture ModelsBagging, Boosting, Stacking, Random Forest, Gradient BoostingL1 Regularization, L2 Regularization, ElasticNet Regularization
+
+# Week 7:SQL Basics
+Learned about basics of SQL, its installation, SQL server, different types of queries.
+The week 7 assignment is live on-  https://fake-news-classifier-rahulneurobyte.streamlit.app/
+
+# Week 8: Generative AI
